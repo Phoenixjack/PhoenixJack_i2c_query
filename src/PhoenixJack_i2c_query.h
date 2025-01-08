@@ -47,6 +47,7 @@ bool PhoenixJack_i2c_query::blocking_scan() {
       if (num_devices_found == 0) {            // if this IS the first address we've found
         first_address_found = curr_address;    // store it; it's probably our only
       }                                        //
+      last_address_found = curr_address;       // store it
       strcpy(found, hex_buffer);               // append it
       num_devices_found++;                     // increment the count
     }                                          //
