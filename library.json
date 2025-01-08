@@ -13,7 +13,7 @@
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/Phoenixjack/PhoenixJack_generic_i2c_tools.git"
+    "url": "https://github.com/Phoenixjack/PhoenixJack_i2c_query.git"
   },
   "version": "3.0",
   "license": "GNU_GPL",
