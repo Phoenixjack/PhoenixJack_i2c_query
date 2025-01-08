@@ -15,8 +15,8 @@
     "type": "git",
     "url": "https://github.com/Phoenixjack/PhoenixJack_i2c_query.git"
   },
-  "version": "3.0",
-  "license": "GNU_GPL",
+  "version": "0",
+  "license": "MIT",
   "frameworks": "*",
   "platforms": "*",
   "headers": "PhoenixJack_i2c_query.h"

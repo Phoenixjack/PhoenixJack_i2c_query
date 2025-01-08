@@ -17,4 +17,4 @@ non_blocking_scan	KEYWORD2
 
 
 # Constants (LITERAL1)
-max_buff_size	LITERAL1
+I2C_QUERY_MAXIMUM_BUFFER_SIZE	LITERAL1

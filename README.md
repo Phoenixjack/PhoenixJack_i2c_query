@@ -16,9 +16,9 @@ Collection of functions to rapidly interrogate the I2C bus; contains single quer
     - byte non_blocking_scan();
 
 ## Accessible Variables
-    - char found[max_buff_size + 1];
+    - char found[I2C_QUERY_MAXIMUM_BUFFER_SIZE + 1];
         null-terminated array of 2 byte (hex) values
-    - char errors[max_buff_size + 1];
+    - char errors[I2C_QUERY_MAXIMUM_BUFFER_SIZE + 1];
         null-terminated array of 2 byte (hex) values
     - byte first_address_found = 0;
         the first I2C address found during a scan
