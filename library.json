@@ -1,0 +1,23 @@
+{
+  "name": "PhoenixJack_i2c_query",
+  "keywords": "i2c scan, i2c query, non-blocking",
+  "description": "The library performs single address queries as well as blocking and non-blocking scans of the I2C bus.",
+  "authors":
+  [
+    {
+      "name": "Chris McCreary",
+      "email": "mccreary.chris2@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Phoenixjack/PhoenixJack_generic_i2c_tools.git"
+  },
+  "version": "3.0",
+  "license": "GNU_GPL",
+  "frameworks": "*",
+  "platforms": "*",
+  "headers": "PhoenixJack_i2c_query.h"
+}

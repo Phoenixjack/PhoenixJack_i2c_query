@@ -1,0 +1,20 @@
+# Syntax Coloring Map For PhoenixJack_i2c_query
+
+
+# Data types (KEYWORD1)
+PhoenixJack_i2c_query	KEYWORD1
+
+
+# Methods and Functions (KEYWORD2)
+check	KEYWORD2
+isGood	KEYWORD2
+blocking_scan	KEYWORD2
+fillValue	KEYWORD2
+non_blocking_scan	KEYWORD2
+
+
+# Instances (KEYWORD2)
+
+
+# Constants (LITERAL1)
+max_buff_size	LITERAL1
